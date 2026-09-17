@@ -1,0 +1,6 @@
+numpy
+scipy
+networkx
+nrclex
+spacy>=3.0
+pandas
