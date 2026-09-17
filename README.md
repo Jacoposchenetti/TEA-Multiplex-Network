@@ -1,7 +1,5 @@
 # TEA Multiplex Networks
-<img width="997" height="1577" alt="image" src="https://github.com/user-attachments/assets/4ef422cb-c689-4fa0-bf23-b945f4453fd6" />
-
-
+<img width="192" height="179" alt="image" src="https://github.com/user-attachments/assets/7cfee72d-8017-4962-a8fe-fa97303e60d4" />
 **Multi-emotional multiplex extension of Target-Event-Agent (TEA) Networks**
 
 🧠 NLP · 🕸️ Multiplex Networks · 😡😨😢😊 Plutchik Emotions · 📊 Clinical Text Analysis
