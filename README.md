@@ -1,6 +1,5 @@
 # TEA Multiplex Networks
-<img width="997" height="1577" alt="image" src="https://github.com/user-attachments/assets/cbfeef9a-da67-4a5b-b547-805d81294fe9" />
-
+![Uploading image.png…]()
 
 **Multi-emotional multiplex extension of Target-Event-Agent (TEA) Networks**
 
